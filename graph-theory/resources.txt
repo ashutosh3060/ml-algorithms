@@ -3,5 +3,5 @@
 https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/
 https://www.kaggle.com/georsara1/a-recommendation-engine-based-on-graph-theory
 https://gephi.org/
-
+https://socnetv.org/
 
