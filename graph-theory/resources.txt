@@ -2,6 +2,7 @@
 
 https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/
 https://www.kaggle.com/georsara1/a-recommendation-engine-based-on-graph-theory
+https://towardsdatascience.com/graph-theory-on-to-network-theory-379b390fb19b
 https://gephi.org/
 https://socnetv.org/
 
