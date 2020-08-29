@@ -1,3 +1,6 @@
 ## Resources:
 
 1. https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d
+
+# Hyperparmeters:
+1. https://www.kaggle.com/prashant111/a-guide-on-xgboost-hyperparameters-tuning
